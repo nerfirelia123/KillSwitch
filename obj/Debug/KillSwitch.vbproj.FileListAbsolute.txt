@@ -1,0 +1,10 @@
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\bin\Debug\KillSwitch.exe.config
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\bin\Debug\KillSwitch.exe
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\bin\Debug\KillSwitch.xml
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\obj\Debug\KillSwitch.vbprojAssemblyReference.cache
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\obj\Debug\KillSwitch.Form1.resources
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\obj\Debug\KillSwitch.Resources.resources
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\obj\Debug\KillSwitch.vbproj.GenerateResource.cache
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\obj\Debug\KillSwitch.vbproj.CoreCompileInputs.cache
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\obj\Debug\KillSwitch.exe
+C:\Users\Enea Kume\source\repos\KillSwitch\KillSwitch\obj\Debug\KillSwitch.xml
